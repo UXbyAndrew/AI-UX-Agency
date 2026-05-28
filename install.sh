@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_URL="https://github.com/YOUR_USERNAME/ai-ux-claude"
+REPO_URL="https://github.com/UXbyAndrew/AI-UX-Agency"
 TMP_DIR=""
 SOURCE_DIR=""
 
